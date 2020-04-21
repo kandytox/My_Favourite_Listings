@@ -1,0 +1,9 @@
+body {background-color: blueviolet;
+font-family: Arial, Helvetica, sans-serif; font-size: 1.125em;
+font-weight: normal;}
+h1 {color: white}
+a {color: tomato;}
+span {text-decoration: underline; color: tomato; }
+a :visited {color: greenyellow;}
+a :hover {text-transform: uppercase}
+a :active {background-color: violet}
